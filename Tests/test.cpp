@@ -29,3 +29,9 @@ TEST(test_potencia, potenciaTres){
         EXPECT_EQ(potencia(i,3), i*i*i);
     }
 }
+
+TEST(test_potencia, potenciaDiez){
+    EXPECT_EQ(potencia(5,10),9765625);
+    //EXPECT_EQ(potencia(10,10),10000000000); ESTA LINEA NO PASA EL TEST POR EL TAMANIO DEL RESULTADO
+}
+

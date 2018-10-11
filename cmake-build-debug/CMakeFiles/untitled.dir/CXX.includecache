@@ -460,10 +460,6 @@ cxxabi.h
 acxx_demangle.h
 -
 
-/home/salvadiaz/CLionProjects/untitled/Tests/Potencia.cpp
-Potencia.h
-/home/salvadiaz/CLionProjects/untitled/Tests/Potencia.h
-
 /home/salvadiaz/CLionProjects/untitled/Tests/Potencia.h
 iostream
 -
@@ -475,12 +471,4 @@ gmock/gmock.h
 -
 Potencia.h
 /home/salvadiaz/CLionProjects/untitled/Tests/Potencia.h
-
-/home/salvadiaz/CLionProjects/untitled/main.cpp
-Tests/Potencia.h
-/home/salvadiaz/CLionProjects/untitled/Tests/Potencia.h
-gtest/gtest.h
--
-gmock/gmock.h
--
 
