@@ -460,6 +460,10 @@ cxxabi.h
 acxx_demangle.h
 -
 
+/home/salvadiaz/CLionProjects/untitled/Tests/InvierteLista.h
+Lista.h
+/home/salvadiaz/CLionProjects/untitled/Tests/Lista.h
+
 /home/salvadiaz/CLionProjects/untitled/Tests/Lista.h
 Nodo.h
 /home/salvadiaz/CLionProjects/untitled/Tests/Nodo.h
@@ -475,4 +479,6 @@ gtest/gtest.h
 /home/salvadiaz/CLionProjects/untitled/Tests/gtest/gtest.h
 Lista.h
 /home/salvadiaz/CLionProjects/untitled/Tests/Lista.h
+InvierteLista.h
+/home/salvadiaz/CLionProjects/untitled/Tests/InvierteLista.h
 

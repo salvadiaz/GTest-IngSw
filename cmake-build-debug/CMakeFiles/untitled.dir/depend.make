@@ -45,6 +45,7 @@ CMakeFiles/untitled.dir/Tests/testLista.cpp.o: ../lib/googletest-master/googlete
 CMakeFiles/untitled.dir/Tests/testLista.cpp.o: ../lib/googletest-master/googletest/include/gtest/internal/gtest-port.h
 CMakeFiles/untitled.dir/Tests/testLista.cpp.o: ../lib/googletest-master/googletest/include/gtest/internal/gtest-string.h
 CMakeFiles/untitled.dir/Tests/testLista.cpp.o: ../lib/googletest-master/googletest/include/gtest/internal/gtest-type-util.h
+CMakeFiles/untitled.dir/Tests/testLista.cpp.o: ../Tests/InvierteLista.h
 CMakeFiles/untitled.dir/Tests/testLista.cpp.o: ../Tests/Lista.h
 CMakeFiles/untitled.dir/Tests/testLista.cpp.o: ../Tests/Nodo.h
 CMakeFiles/untitled.dir/Tests/testLista.cpp.o: ../Tests/testLista.cpp

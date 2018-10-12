@@ -1,13 +1,14 @@
 #include <gmock/gmock.h>
 #include "gtest/gtest.h"
 #include "Lista.h"
+#include "InvierteLista.h"
 
 Lista<int> *l1;
 
 TEST(test_Lista, nuevaListaTamanioCero) {
     l1 = new Lista<int>();
     EXPECT_EQ(l1->getTamanio(), 0);
-    EXPECT_EQ(l1->esVacia(), true);
+    EXPECT_TRUE(l1->esVacia());
 }
 
 TEST(test_Lista, agregoTres_getTamanio) {
@@ -56,7 +57,7 @@ TEST(test_Lista, reemplazar) {
 
 TEST(test_Lista, vaciar) {
     l1->vaciar();
-    EXPECT_EQ(l1->esVacia(), true);
+    ASSERT_TRUE(l1->esVacia());
     EXPECT_EQ(l1->getTamanio(), 0);
 }
 
@@ -69,3 +70,28 @@ TEST(test_Lista, vaciar) {
 //    l1->insertarPrimero(3);
 //    EXPECT_ANY_THROW(l1->remover(10));
 //}
+
+
+/*
+ *test de la funcion que invierte una lista
+ */
+//
+//TEST(test_01_Invierte, Invertir50) {
+//    Lista<uint8_t> l;
+//
+//    for (int i = 0; i < 50; i++)
+//        l.insertarUltimo(i);
+//
+//    fnInvierte(&l);
+//
+//    for (int i = 0; i < 50; i++) {
+//        EXPECT_EQ(l.getDato(i), 49 - i);
+//    }
+//}
+
+
+TEST(test_01_Invierte, InvertirVacia) {
+    Lista<uint8_t> l;
+    fnInvierte<uint8_t>(&l);
+    EXPECT_EQ(l.esVacia(), true);
+}
