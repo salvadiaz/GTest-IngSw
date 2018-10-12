@@ -4,6 +4,9 @@
 CMakeFiles/untitled.dir/Tests/Potencia.cpp.o: ../Tests/Potencia.cpp
 CMakeFiles/untitled.dir/Tests/Potencia.cpp.o: ../Tests/Potencia.h
 
+CMakeFiles/untitled.dir/Tests/Sumatoria.cpp.o: ../Tests/Sumatoria.cpp
+CMakeFiles/untitled.dir/Tests/Sumatoria.cpp.o: ../Tests/Sumatoria.h
+
 CMakeFiles/untitled.dir/Tests/test.cpp.o: ../lib/googletest-master/googlemock/include/gmock/gmock-actions.h
 CMakeFiles/untitled.dir/Tests/test.cpp.o: ../lib/googletest-master/googlemock/include/gmock/gmock-cardinalities.h
 CMakeFiles/untitled.dir/Tests/test.cpp.o: ../lib/googletest-master/googlemock/include/gmock/gmock-generated-actions.h
@@ -43,6 +46,7 @@ CMakeFiles/untitled.dir/Tests/test.cpp.o: ../lib/googletest-master/googletest/in
 CMakeFiles/untitled.dir/Tests/test.cpp.o: ../lib/googletest-master/googletest/include/gtest/internal/gtest-string.h
 CMakeFiles/untitled.dir/Tests/test.cpp.o: ../lib/googletest-master/googletest/include/gtest/internal/gtest-type-util.h
 CMakeFiles/untitled.dir/Tests/test.cpp.o: ../Tests/Potencia.h
+CMakeFiles/untitled.dir/Tests/test.cpp.o: ../Tests/Sumatoria.h
 CMakeFiles/untitled.dir/Tests/test.cpp.o: ../Tests/test.cpp
 
 CMakeFiles/untitled.dir/main.cpp.o: ../lib/googletest-master/googlemock/include/gmock/gmock-actions.h
@@ -84,5 +88,6 @@ CMakeFiles/untitled.dir/main.cpp.o: ../lib/googletest-master/googletest/include/
 CMakeFiles/untitled.dir/main.cpp.o: ../lib/googletest-master/googletest/include/gtest/internal/gtest-string.h
 CMakeFiles/untitled.dir/main.cpp.o: ../lib/googletest-master/googletest/include/gtest/internal/gtest-type-util.h
 CMakeFiles/untitled.dir/main.cpp.o: ../Tests/Potencia.h
+CMakeFiles/untitled.dir/main.cpp.o: ../Tests/Sumatoria.h
 CMakeFiles/untitled.dir/main.cpp.o: ../main.cpp
 

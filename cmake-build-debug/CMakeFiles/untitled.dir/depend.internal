@@ -4,6 +4,9 @@
 CMakeFiles/untitled.dir/Tests/Potencia.cpp.o
  /home/salvadiaz/CLionProjects/untitled/Tests/Potencia.cpp
  /home/salvadiaz/CLionProjects/untitled/Tests/Potencia.h
+CMakeFiles/untitled.dir/Tests/Sumatoria.cpp.o
+ /home/salvadiaz/CLionProjects/untitled/Tests/Sumatoria.cpp
+ /home/salvadiaz/CLionProjects/untitled/Tests/Sumatoria.h
 CMakeFiles/untitled.dir/Tests/test.cpp.o
  ../lib/googletest-master/googlemock/include/gmock/gmock-actions.h
  ../lib/googletest-master/googlemock/include/gmock/gmock-cardinalities.h
@@ -44,6 +47,7 @@ CMakeFiles/untitled.dir/Tests/test.cpp.o
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-string.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-type-util.h
  /home/salvadiaz/CLionProjects/untitled/Tests/Potencia.h
+ /home/salvadiaz/CLionProjects/untitled/Tests/Sumatoria.h
  /home/salvadiaz/CLionProjects/untitled/Tests/test.cpp
 CMakeFiles/untitled.dir/main.cpp.o
  ../lib/googletest-master/googlemock/include/gmock/gmock-actions.h
@@ -85,4 +89,5 @@ CMakeFiles/untitled.dir/main.cpp.o
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-string.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-type-util.h
  /home/salvadiaz/CLionProjects/untitled/Tests/Potencia.h
+ /home/salvadiaz/CLionProjects/untitled/Tests/Sumatoria.h
  /home/salvadiaz/CLionProjects/untitled/main.cpp

@@ -248,6 +248,33 @@ Tests/Potencia.cpp.s:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Tests/Potencia.cpp.s
 .PHONY : Tests/Potencia.cpp.s
 
+Tests/Sumatoria.o: Tests/Sumatoria.cpp.o
+
+.PHONY : Tests/Sumatoria.o
+
+# target to build an object file
+Tests/Sumatoria.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Tests/Sumatoria.cpp.o
+.PHONY : Tests/Sumatoria.cpp.o
+
+Tests/Sumatoria.i: Tests/Sumatoria.cpp.i
+
+.PHONY : Tests/Sumatoria.i
+
+# target to preprocess a source file
+Tests/Sumatoria.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Tests/Sumatoria.cpp.i
+.PHONY : Tests/Sumatoria.cpp.i
+
+Tests/Sumatoria.s: Tests/Sumatoria.cpp.s
+
+.PHONY : Tests/Sumatoria.s
+
+# target to generate assembly for a file
+Tests/Sumatoria.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Tests/Sumatoria.cpp.s
+.PHONY : Tests/Sumatoria.cpp.s
+
 Tests/test.o: Tests/test.cpp.o
 
 .PHONY : Tests/test.o
@@ -322,6 +349,9 @@ help:
 	@echo "... Tests/Potencia.o"
 	@echo "... Tests/Potencia.i"
 	@echo "... Tests/Potencia.s"
+	@echo "... Tests/Sumatoria.o"
+	@echo "... Tests/Sumatoria.i"
+	@echo "... Tests/Sumatoria.s"
 	@echo "... Tests/test.o"
 	@echo "... Tests/test.i"
 	@echo "... Tests/test.s"

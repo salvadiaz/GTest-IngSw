@@ -6,7 +6,7 @@ add_subdirectory(lib/googletest-master)
 include_directories(lib/googletest-master/googletest/include)
 include_directories(lib/googletest-master/googlemock/include)
 
-add_executable(untitled main.cpp Tests/Potencia.cpp Tests/Potencia.h Tests/test.cpp)
+add_executable(untitled main.cpp Tests/Potencia.cpp Tests/Potencia.h Tests/test.cpp Tests/Sumatoria.cpp Tests/Sumatoria.h)
 set(SOURCE_FILES main.cpp)
 
 target_link_libraries(untitled gtest gtest_main)

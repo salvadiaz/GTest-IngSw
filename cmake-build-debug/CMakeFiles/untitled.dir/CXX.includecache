@@ -464,6 +464,10 @@ acxx_demangle.h
 iostream
 -
 
+/home/salvadiaz/CLionProjects/untitled/Tests/Sumatoria.h
+iostream
+-
+
 /home/salvadiaz/CLionProjects/untitled/Tests/test.cpp
 gtest/gtest.h
 -
@@ -471,4 +475,6 @@ gmock/gmock.h
 -
 Potencia.h
 /home/salvadiaz/CLionProjects/untitled/Tests/Potencia.h
+Sumatoria.h
+/home/salvadiaz/CLionProjects/untitled/Tests/Sumatoria.h
 

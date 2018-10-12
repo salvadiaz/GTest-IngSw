@@ -1,1 +1,1 @@
-/usr/bin/c++   -std=c++11 -g   CMakeFiles/untitled.dir/main.cpp.o CMakeFiles/untitled.dir/Tests/Potencia.cpp.o CMakeFiles/untitled.dir/Tests/test.cpp.o  -o untitled lib/libgtestd.a lib/libgtest_maind.a lib/libgtestd.a -pthread 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/untitled.dir/main.cpp.o CMakeFiles/untitled.dir/Tests/Potencia.cpp.o CMakeFiles/untitled.dir/Tests/test.cpp.o CMakeFiles/untitled.dir/Tests/Sumatoria.cpp.o  -o untitled lib/libgtestd.a lib/libgtest_maind.a lib/libgtestd.a -pthread 
