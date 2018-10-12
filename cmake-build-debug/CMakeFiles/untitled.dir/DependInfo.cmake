@@ -6,7 +6,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/salvadiaz/CLionProjects/untitled/Tests/Potencia.cpp" "/home/salvadiaz/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Tests/Potencia.cpp.o"
   "/home/salvadiaz/CLionProjects/untitled/Tests/Sumatoria.cpp" "/home/salvadiaz/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Tests/Sumatoria.cpp.o"
-  "/home/salvadiaz/CLionProjects/untitled/Tests/test.cpp" "/home/salvadiaz/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Tests/test.cpp.o"
+  "/home/salvadiaz/CLionProjects/untitled/Tests/testLista.cpp" "/home/salvadiaz/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Tests/testLista.cpp.o"
+  "/home/salvadiaz/CLionProjects/untitled/Tests/testRecursividad.cpp" "/home/salvadiaz/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Tests/testRecursividad.cpp.o"
   "/home/salvadiaz/CLionProjects/untitled/main.cpp" "/home/salvadiaz/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

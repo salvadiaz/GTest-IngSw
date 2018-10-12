@@ -83,18 +83,18 @@ CMakeFiles/untitled.dir/Tests/Potencia.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Tests/Potencia.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/salvadiaz/CLionProjects/untitled/Tests/Potencia.cpp -o CMakeFiles/untitled.dir/Tests/Potencia.cpp.s
 
-CMakeFiles/untitled.dir/Tests/test.cpp.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/Tests/test.cpp.o: ../Tests/test.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/salvadiaz/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/untitled.dir/Tests/test.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/Tests/test.cpp.o -c /home/salvadiaz/CLionProjects/untitled/Tests/test.cpp
+CMakeFiles/untitled.dir/Tests/testRecursividad.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Tests/testRecursividad.cpp.o: ../Tests/testRecursividad.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/salvadiaz/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/untitled.dir/Tests/testRecursividad.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/Tests/testRecursividad.cpp.o -c /home/salvadiaz/CLionProjects/untitled/Tests/testRecursividad.cpp
 
-CMakeFiles/untitled.dir/Tests/test.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Tests/test.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/salvadiaz/CLionProjects/untitled/Tests/test.cpp > CMakeFiles/untitled.dir/Tests/test.cpp.i
+CMakeFiles/untitled.dir/Tests/testRecursividad.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Tests/testRecursividad.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/salvadiaz/CLionProjects/untitled/Tests/testRecursividad.cpp > CMakeFiles/untitled.dir/Tests/testRecursividad.cpp.i
 
-CMakeFiles/untitled.dir/Tests/test.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Tests/test.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/salvadiaz/CLionProjects/untitled/Tests/test.cpp -o CMakeFiles/untitled.dir/Tests/test.cpp.s
+CMakeFiles/untitled.dir/Tests/testRecursividad.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Tests/testRecursividad.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/salvadiaz/CLionProjects/untitled/Tests/testRecursividad.cpp -o CMakeFiles/untitled.dir/Tests/testRecursividad.cpp.s
 
 CMakeFiles/untitled.dir/Tests/Sumatoria.cpp.o: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/Tests/Sumatoria.cpp.o: ../Tests/Sumatoria.cpp
@@ -109,26 +109,41 @@ CMakeFiles/untitled.dir/Tests/Sumatoria.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Tests/Sumatoria.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/salvadiaz/CLionProjects/untitled/Tests/Sumatoria.cpp -o CMakeFiles/untitled.dir/Tests/Sumatoria.cpp.s
 
+CMakeFiles/untitled.dir/Tests/testLista.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Tests/testLista.cpp.o: ../Tests/testLista.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/salvadiaz/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/untitled.dir/Tests/testLista.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/Tests/testLista.cpp.o -c /home/salvadiaz/CLionProjects/untitled/Tests/testLista.cpp
+
+CMakeFiles/untitled.dir/Tests/testLista.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Tests/testLista.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/salvadiaz/CLionProjects/untitled/Tests/testLista.cpp > CMakeFiles/untitled.dir/Tests/testLista.cpp.i
+
+CMakeFiles/untitled.dir/Tests/testLista.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Tests/testLista.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/salvadiaz/CLionProjects/untitled/Tests/testLista.cpp -o CMakeFiles/untitled.dir/Tests/testLista.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/main.cpp.o" \
 "CMakeFiles/untitled.dir/Tests/Potencia.cpp.o" \
-"CMakeFiles/untitled.dir/Tests/test.cpp.o" \
-"CMakeFiles/untitled.dir/Tests/Sumatoria.cpp.o"
+"CMakeFiles/untitled.dir/Tests/testRecursividad.cpp.o" \
+"CMakeFiles/untitled.dir/Tests/Sumatoria.cpp.o" \
+"CMakeFiles/untitled.dir/Tests/testLista.cpp.o"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
 
 untitled: CMakeFiles/untitled.dir/main.cpp.o
 untitled: CMakeFiles/untitled.dir/Tests/Potencia.cpp.o
-untitled: CMakeFiles/untitled.dir/Tests/test.cpp.o
+untitled: CMakeFiles/untitled.dir/Tests/testRecursividad.cpp.o
 untitled: CMakeFiles/untitled.dir/Tests/Sumatoria.cpp.o
+untitled: CMakeFiles/untitled.dir/Tests/testLista.cpp.o
 untitled: CMakeFiles/untitled.dir/build.make
 untitled: lib/libgtestd.a
 untitled: lib/libgtest_maind.a
 untitled: lib/libgtestd.a
 untitled: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/salvadiaz/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable untitled"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/salvadiaz/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable untitled"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/untitled.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

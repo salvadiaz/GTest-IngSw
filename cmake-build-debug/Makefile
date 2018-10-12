@@ -275,32 +275,59 @@ Tests/Sumatoria.cpp.s:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Tests/Sumatoria.cpp.s
 .PHONY : Tests/Sumatoria.cpp.s
 
-Tests/test.o: Tests/test.cpp.o
+Tests/testLista.o: Tests/testLista.cpp.o
 
-.PHONY : Tests/test.o
+.PHONY : Tests/testLista.o
 
 # target to build an object file
-Tests/test.cpp.o:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Tests/test.cpp.o
-.PHONY : Tests/test.cpp.o
+Tests/testLista.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Tests/testLista.cpp.o
+.PHONY : Tests/testLista.cpp.o
 
-Tests/test.i: Tests/test.cpp.i
+Tests/testLista.i: Tests/testLista.cpp.i
 
-.PHONY : Tests/test.i
+.PHONY : Tests/testLista.i
 
 # target to preprocess a source file
-Tests/test.cpp.i:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Tests/test.cpp.i
-.PHONY : Tests/test.cpp.i
+Tests/testLista.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Tests/testLista.cpp.i
+.PHONY : Tests/testLista.cpp.i
 
-Tests/test.s: Tests/test.cpp.s
+Tests/testLista.s: Tests/testLista.cpp.s
 
-.PHONY : Tests/test.s
+.PHONY : Tests/testLista.s
 
 # target to generate assembly for a file
-Tests/test.cpp.s:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Tests/test.cpp.s
-.PHONY : Tests/test.cpp.s
+Tests/testLista.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Tests/testLista.cpp.s
+.PHONY : Tests/testLista.cpp.s
+
+Tests/testRecursividad.o: Tests/testRecursividad.cpp.o
+
+.PHONY : Tests/testRecursividad.o
+
+# target to build an object file
+Tests/testRecursividad.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Tests/testRecursividad.cpp.o
+.PHONY : Tests/testRecursividad.cpp.o
+
+Tests/testRecursividad.i: Tests/testRecursividad.cpp.i
+
+.PHONY : Tests/testRecursividad.i
+
+# target to preprocess a source file
+Tests/testRecursividad.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Tests/testRecursividad.cpp.i
+.PHONY : Tests/testRecursividad.cpp.i
+
+Tests/testRecursividad.s: Tests/testRecursividad.cpp.s
+
+.PHONY : Tests/testRecursividad.s
+
+# target to generate assembly for a file
+Tests/testRecursividad.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Tests/testRecursividad.cpp.s
+.PHONY : Tests/testRecursividad.cpp.s
 
 main.o: main.cpp.o
 
@@ -352,9 +379,12 @@ help:
 	@echo "... Tests/Sumatoria.o"
 	@echo "... Tests/Sumatoria.i"
 	@echo "... Tests/Sumatoria.s"
-	@echo "... Tests/test.o"
-	@echo "... Tests/test.i"
-	@echo "... Tests/test.s"
+	@echo "... Tests/testLista.o"
+	@echo "... Tests/testLista.i"
+	@echo "... Tests/testLista.s"
+	@echo "... Tests/testRecursividad.o"
+	@echo "... Tests/testRecursividad.i"
+	@echo "... Tests/testRecursividad.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

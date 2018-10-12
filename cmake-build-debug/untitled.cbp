@@ -350,7 +350,10 @@
 		<Unit filename="/home/salvadiaz/CLionProjects/untitled/Tests/Sumatoria.h">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="/home/salvadiaz/CLionProjects/untitled/Tests/test.cpp">
+		<Unit filename="/home/salvadiaz/CLionProjects/untitled/Tests/testLista.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/salvadiaz/CLionProjects/untitled/Tests/testRecursividad.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="/home/salvadiaz/CLionProjects/untitled/lib/googletest-master/googlemock/src/gmock-all.cc">
