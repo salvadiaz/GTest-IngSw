@@ -5,6 +5,7 @@
 #include <gmock/gmock.h>
 #include "Potencia.h"
 #include "Sumatoria.h"
+#include "Lista.h"
 
 
 /**********************************tests de potencia****************************/

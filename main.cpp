@@ -1,3 +1,4 @@
+#include "Tests/Lista.h"
 #include "Tests/Sumatoria.h"
 #include "Tests/Potencia.h"
 #include <gtest/gtest.h>
